@@ -1,6 +1,7 @@
 # ASSIGNMENT3_PUN2
 
 시작: 2023-10-12 </br>
+보류: 2026-10-25 ~ </br>
 완료: </br>
 
 <details>
@@ -27,17 +28,9 @@ PUN을 통한 네트워킹(멀티플레이) 구현
 
 ## 진행중
 
-가이드라인 참고코드 읽으며 기능 학습중
+> 메타버스 추모관 프로토타입 제작 프로젝트로 인해 보류됨.
 
-방 생성 스크립팅 해야함
-
-→ NewRoom - Create 버튼에 기능 할당
-
-로비 프리팹에서 Room Info 삭제, Create때 생성하도록 하기.
-
-PUN의 룸 property에 대해 알아야 함
-
-PunManager ↔ LobbyManager 소통 방안 고민해보기
+onPunRoomCreated 이벤트 처리
 
 ## 작업 계획
 
@@ -68,4 +61,3 @@ PunManager ↔ LobbyManager 소통 방안 고민해보기
 
 ## 보류
 
-구조적으로 마음에 안듦. 리팩토링 필요.(Lobby, PUN쪽)
